@@ -63,7 +63,7 @@ git push -u origin main
 **push:** Update remote refs along with associated objects
 
 
- ## Commands used when working on exsiting repositories 
+ ## Commands used when working on existing repositories 
  
  **pull:** Fetch from and integrate with another repository or a local branch
  
