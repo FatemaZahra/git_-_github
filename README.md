@@ -75,3 +75,9 @@ git push -u origin main
  
  Follow the [repo](https://github.com/FatemaZahra/github-ssh-setup) or use the [video](https://testingcircle-my.sharepoint.com/:v:/r/personal/fzahra_spartaglobal_com/Documents/Microsoft%20Teams%20Chat%20Files/Github%20setup.mov?csf=1&web=1&e=8FloCR)
 
+ ### More on commands
+
+ - To move a file from one branch to another
+   - Stay on the branch to which you want to move the file *to* and use the command: 
+`git checkout <branch_from_which_the_file_is_needed> -- <filename>`
+
